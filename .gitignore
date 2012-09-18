@@ -7,3 +7,5 @@ csproj.user
 *.cachefile
 *.user
 *.suo
+bin
+obj
