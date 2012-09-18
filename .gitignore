@@ -1,0 +1,9 @@
+Game.ico
+GameThumbnail.png
+*.exe
+bin
+obj
+csproj.user
+*.cachefile
+*.user
+*.suo
