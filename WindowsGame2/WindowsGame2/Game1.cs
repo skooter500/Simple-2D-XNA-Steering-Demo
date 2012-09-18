@@ -12,6 +12,7 @@ using Microsoft.Xna.Framework.Media;
 /*
  * A simple little demo to demonstrate a scene graph, sprites, audio and control with the game controller
  * Control using an attached Game Controller (using the Dpad) or using the keyboard arrow keys and the SPACE key
+ * Developed by Bryan Duggan, DIT
  */
 namespace WindowsGame2
 {
